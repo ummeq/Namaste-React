@@ -3,8 +3,8 @@
 #### What is Emmet
 Emmet uses different abbreviations and short expressions depending on what's passed, and then dynamically converts the abbreviations into the full code, example as
 ` div.wrapper —> <div class="wrapper"></div>` 
-
 ` h1.header.center —> <h1 class="header center"></h1> `
+
 =============
 #### Difference between a Library and Framework
  A framework provides everything to build an application including routing, apis, different rendering mechanism etc. It can be called that Framework is a superset of libraries, whereas a library can be a set of helper functions, modules for specific functionality.
